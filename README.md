@@ -1,14 +1,14 @@
 # Sathish Thandhari - Analytics Engineer
 
 ## 👋 About Me
-Analytics Engineer transitioning from 6+ years in digital advertising operations and data analytics. 
+Analytics Engineer with 6+ years experience spanning over digital advertising operations and data analytics. 
 Specializing in building scalable data pipelines with **Snowflake**, **DBT**, **Python**, and **Airflow**.
 
 ## 🛠️ Tech Stack
 **Data Engineering:** Snowflake, DBT (dbt-core), Apache Airflow, AWS (S3, Lambda)  
 **Languages:** SQL, Python  
 **Visualization:** Tableau, Looker Studio, Power BI, Excel  
-**Ad Tech:** CM360, DV360, Prisma, TTD, Flashtalking
+**Ad Tech:** CM360, DV360, Prisma, TTD, Flashtalking, many others
 
 ## 📊 Featured Projects
 - [Real-Time Ad Data Pipeline](#) - Streaming advertising data to Snowflake via AWS
