@@ -16,7 +16,7 @@ Specializing in building scalable data pipelines with **Snowflake**, **DBT**, **
 - [Reporting Automation](#) - Reporting automation pipeline (In progress)
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/sathish-thandari-a35208225
+- LinkedIn: https://linkedin.com/in/sathish-thandari-a35208225
 - Email: sathishthandhari@gmail.com
 
 ## 📈 GitHub Stats
