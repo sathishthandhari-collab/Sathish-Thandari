@@ -11,7 +11,7 @@ Specializing in building scalable data pipelines with **Snowflake**, **DBT**, **
 **Ad Tech:** CM360, DV360, Prisma, TTD, Flashtalking, many others
 
 ## 📊 Featured Projects
-- [Real-Time Ad Data Pipeline](#) - Streaming advertising data to Snowflake via AWS
+- [Real-Time Ad Data Pipeline](https://github.com/sathishthandhari-collab/Ecommerce_project_olist) - Streaming advertising data to Snowflake via AWS
 - [DBT Transformation Models](#) - Production-ready DBT models with testing
 
 ## 📫 Connect With Me
