@@ -13,7 +13,6 @@ Specializing in building scalable data pipelines with **Snowflake**, **DBT**, **
 ## 📊 Featured Projects
 - [Real-Time Ad Data Pipeline](#) - Streaming advertising data to Snowflake via AWS
 - [DBT Transformation Models](#) - Production-ready DBT models with testing
-- [Reporting Automation](#) - Reporting automation pipeline (In progress)
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/sathish-thandari-a35208225
